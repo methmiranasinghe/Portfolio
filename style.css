@@ -184,7 +184,7 @@ html{
   
 
 .progress-percent{
-    width: 0;
+    width: 90%;
     height: 100%;
     background-color: #e41c6f;
     border-radius: 0.3rem;
